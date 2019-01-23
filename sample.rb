@@ -64,7 +64,7 @@ class Janken
   end
 end
 
-player = Player.new #playerくラスをインスタンス化し、handメソッドを使用
+player = Player.new #playerクラスをインスタンス化し、handメソッドを使用
 
 enemy = Enemy.new
 
